@@ -1,4 +1,4 @@
-# DineFlow - Java Food Ordering System
+# CampusEats - Java Food Ordering System
 
 A desktop food ordering platform built with Java Swing, featuring four user roles (Customer, Vendor, Delivery Runner, and Admin), wallet and top-up workflows, notifications, reviews, and end-to-end order lifecycle management.
 
